@@ -1,0 +1,101 @@
+contract_id,name,property_name,payment_style,start_date,end_date,amount,power_water
+CT01000,Nancy Fuller,Green Hills 233,monthly,2023-08-30,2025-02-28,58000,0
+CT01001,Harold Rice,Sunrise Terrace 201,monthly,2023-10-19,2025-02-28,58000,0
+CT01002,Charles Anderson,Sakura Heights 292,prepaid_3mo,2024-10-14,2025-02-28,55000,3000
+CT01003,Kurt Garcia,Green Hills 267,monthly,2023-10-17,2025-02-28,55000,0
+CT01004,Jennifer Reilly,Sunrise Terrace 250,prepaid_1yr,2024-02-14,2025-02-28,60000,0
+CT01005,Sheila Alvarez,Green Hills 178,prepaid_3mo,2023-10-05,2025-02-28,58000,0
+CT01006,Daniel Clark,Sakura Heights 233,prepaid_3mo,2025-01-18,2025-02-28,58000,3000
+CT01007,Stephanie Barnett,Green Hills 152,monthly,2023-06-07,2025-02-28,55000,0
+CT01008,Lisa Johnson,Green Hills 154,postpaid,2025-04-27,2025-02-28,60000,0
+CT01009,Tanya Brown,Green Hills 305,prepaid_3mo,2023-08-03,2025-02-28,60000,0
+CT01010,Austin Pineda,Sunrise Terrace 176,monthly,2024-10-19,,55000,0
+CT01011,Jacqueline Hill,Maple Court 115,monthly,2024-04-09,,60000,0
+CT01012,Michelle Leach,River Side View 244,prepaid_1yr,2024-02-25,,55000,0
+CT01013,Stacy Davis,River Side View 185,postpaid,2025-02-10,,60000,0
+CT01014,Jonathan Campbell,Green Hills 110,postpaid,2024-08-12,,60000,0
+CT01015,Laurie Todd,Sakura Heights 244,prepaid_1yr,2024-03-06,,60000,3000
+CT01016,Laurie Williams,Maple Court 294,monthly,2023-10-29,,60000,0
+CT01017,Caitlin Smith,Sunrise Terrace 244,postpaid,2024-01-10,,58000,0
+CT01018,Eric James,Green Hills 115,monthly,2024-11-25,,58000,0
+CT01019,Tiffany Brown,Sakura Heights 262,monthly,2024-09-07,,55000,3000
+CT01020,Teresa Lynch,Green Hills 236,prepaid_3mo,2025-02-26,,55000,0
+CT01021,Amy Peterson,Sakura Heights 256,prepaid_3mo,2024-06-18,,60000,3000
+CT01022,Michele Noble,Green Hills 104,prepaid_1yr,2024-12-25,,60000,0
+CT01023,Teresa Gray,River Side View 179,prepaid_3mo,2023-07-14,,55000,0
+CT01024,Travis Harmon,Sunrise Terrace 234,postpaid,2024-02-24,,58000,0
+CT01025,John Johnson,Green Hills 220,monthly,2024-06-20,,55000,0
+CT01026,Johnny Flores,River Side View 131,postpaid,2023-10-17,,58000,0
+CT01027,Bonnie Delgado,Maple Court 112,prepaid_3mo,2024-10-19,,60000,0
+CT01028,Kelli Morton,River Side View 259,prepaid_1yr,2024-04-14,,58000,0
+CT01029,Russell Rodgers,River Side View 281,prepaid_1yr,2024-03-30,,55000,0
+CT01030,Heather Coleman DDS,Green Hills 133,prepaid_3mo,2023-09-26,,58000,0
+CT01031,Angela Wong,Green Hills 219,prepaid_3mo,2025-03-22,,58000,0
+CT01032,Lisa Harper,Green Hills 246,monthly,2023-12-25,,55000,0
+CT01033,Jessica Mccall DVM,Sakura Heights 145,prepaid_3mo,2024-12-25,,58000,3000
+CT01034,Tanner Ford,Maple Court 291,prepaid_3mo,2024-09-05,,58000,0
+CT01035,Katrina Glenn,Green Hills 121,postpaid,2023-07-04,,58000,0
+CT01036,Vincent Smith,Sakura Heights 113,prepaid_1yr,2024-08-31,,60000,3000
+CT01037,Kelly Freeman,Sunrise Terrace 148,monthly,2024-07-01,,58000,0
+CT01038,David Scott,River Side View 239,monthly,2023-10-02,,58000,0
+CT01039,Taylor Townsend DDS,Green Hills 233,monthly,2023-06-12,,60000,0
+CT01040,Barbara Alexander,River Side View 107,prepaid_1yr,2024-04-16,,58000,0
+CT01041,Mr. Andrew Mata,Sakura Heights 148,prepaid_3mo,2023-11-09,,60000,3000
+CT01042,Collin Woods,Green Hills 264,monthly,2023-07-07,,55000,0
+CT01043,James Young,Green Hills 218,prepaid_1yr,2023-09-13,,60000,0
+CT01044,Katherine Hunter,Sunrise Terrace 219,prepaid_3mo,2023-10-17,,58000,0
+CT01045,Emily Lowe,River Side View 289,prepaid_3mo,2024-08-08,,60000,0
+CT01046,Tina Jackson,Green Hills 131,monthly,2025-03-03,,55000,0
+CT01047,Joann Moore,River Side View 210,prepaid_3mo,2024-06-30,,60000,0
+CT01048,Jonathan Chen,Green Hills 262,monthly,2023-07-08,,60000,0
+CT01049,Terri Johnson,Sunrise Terrace 230,prepaid_3mo,2024-08-01,,58000,0
+CT01050,Richard Mclaughlin,Green Hills 287,prepaid_1yr,2024-01-24,,60000,0
+CT01051,Michael Calderon,Green Hills 297,prepaid_1yr,2024-03-09,,55000,0
+CT01052,James Shaw,River Side View 204,prepaid_3mo,2025-01-04,,58000,0
+CT01053,Shannon Baker,River Side View 183,postpaid,2025-04-21,,58000,0
+CT01054,Rachel Wilson,Maple Court 239,prepaid_3mo,2023-10-01,,60000,0
+CT01055,Ann Rogers,Green Hills 161,prepaid_3mo,2025-02-26,,55000,0
+CT01056,Crystal Haynes MD,Sunrise Terrace 267,postpaid,2024-04-15,,58000,0
+CT01057,Anna Parker,Maple Court 187,monthly,2024-11-14,,58000,0
+CT01058,Veronica Rodriguez,Maple Court 150,monthly,2025-03-27,,55000,0
+CT01059,Caleb Douglas,Sakura Heights 219,prepaid_3mo,2023-07-05,,55000,3000
+CT01060,Amanda Lutz,Maple Court 130,postpaid,2025-05-08,,58000,0
+CT01061,Keith Rodriguez,River Side View 171,prepaid_3mo,2023-08-12,,60000,0
+CT01062,Mrs. Daisy Dougherty DVM,Maple Court 238,prepaid_3mo,2024-10-15,,58000,0
+CT01063,Steve Roberts,River Side View 211,prepaid_1yr,2023-10-26,,58000,0
+CT01064,Jennifer Foster,Sakura Heights 278,monthly,2024-07-30,,58000,3000
+CT01065,Roy Ewing,Sunrise Terrace 159,monthly,2024-05-20,,60000,0
+CT01066,Regina Goodwin,Maple Court 273,postpaid,2025-04-14,,58000,0
+CT01067,Don Callahan,Sakura Heights 286,monthly,2024-11-24,,60000,3000
+CT01068,Andrea Molina,Sakura Heights 297,prepaid_1yr,2025-01-31,,55000,3000
+CT01069,Edward White,River Side View 261,prepaid_3mo,2024-05-09,,60000,0
+CT01070,Crystal Sweeney,Sunrise Terrace 183,postpaid,2024-06-16,,55000,0
+CT01071,Bruce Byrd,Maple Court 141,postpaid,2023-06-07,,60000,0
+CT01072,Roy Williams,Sunrise Terrace 151,monthly,2023-10-02,,60000,0
+CT01073,Scott Wilson,Green Hills 104,prepaid_1yr,2024-01-08,,58000,0
+CT01074,Karen Hicks,Maple Court 116,prepaid_1yr,2025-02-18,,58000,0
+CT01075,Melinda Williams,Sakura Heights 286,monthly,2023-11-25,,55000,3000
+CT01076,Daniel Clark,Green Hills 180,postpaid,2025-03-30,,58000,0
+CT01077,Christina Chapman,Maple Court 225,monthly,2023-10-18,,58000,0
+CT01078,Zachary Saunders,Maple Court 180,prepaid_1yr,2023-10-31,,58000,0
+CT01079,Olivia Hinton,River Side View 218,prepaid_1yr,2025-02-21,,55000,0
+CT01080,Vickie Torres,Sakura Heights 184,prepaid_1yr,2024-01-06,,60000,3000
+CT01081,Laura Rocha MD,Maple Court 118,prepaid_1yr,2023-06-23,,60000,0
+CT01082,John Thompson,Sakura Heights 198,monthly,2024-10-17,,60000,3000
+CT01083,Frank Coffey,Maple Court 111,postpaid,2024-06-20,,60000,0
+CT01084,Joanne Lowe,Green Hills 140,prepaid_1yr,2023-12-06,,58000,0
+CT01085,Wayne Cole,Sakura Heights 229,monthly,2025-05-20,,60000,3000
+CT01086,Katie Diaz,Sunrise Terrace 284,prepaid_1yr,2023-10-14,,55000,0
+CT01087,Trevor Mccann,Sakura Heights 196,postpaid,2024-05-26,,60000,3000
+CT01088,Maureen Christensen,River Side View 111,prepaid_1yr,2024-05-06,,55000,0
+CT01089,Leslie Brown,Sakura Heights 126,postpaid,2023-06-07,,60000,3000
+CT01090,Stacy Flores,Sakura Heights 217,prepaid_3mo,2024-09-30,,58000,3000
+CT01091,Andrew Cox,Sunrise Terrace 149,prepaid_1yr,2023-09-10,,58000,0
+CT01092,Dylan Scott,River Side View 278,prepaid_1yr,2024-04-10,,55000,0
+CT01093,Matthew Young,Green Hills 119,prepaid_3mo,2024-01-16,,60000,0
+CT01094,Amanda Daugherty,Green Hills 171,prepaid_1yr,2023-10-18,,60000,0
+CT01095,Stephen Carr,Sakura Heights 260,postpaid,2024-11-14,,58000,3000
+CT01096,Kenneth Greer,Green Hills 210,postpaid,2024-06-03,,55000,0
+CT01097,Sheila Rios,Green Hills 295,prepaid_1yr,2025-05-16,,60000,0
+CT01098,Samuel Cruz,Sakura Heights 291,monthly,2024-12-25,,55000,3000
+CT01099,John Charles,Maple Court 162,monthly,2024-10-14,,55000,0
