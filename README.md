@@ -1,4 +1,4 @@
-# 🏠 Rent Payment AI Agent
+# 🏠 RentMate - AI-powered Agents App for Real Estate Property Owners
 
 This is a conversational AI-powered Streamlit app designed for property owners to manage rental contracts and payment tracking more efficiently.
 
