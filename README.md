@@ -19,8 +19,8 @@ Many property owners use Excel to manage tenant contracts and payments, making i
 ## 🛠️ What This App Does
 
 - 💬 Accepts natural language queries like:
-  - *“Has Nancy paid for February 2025?”*
-  - *“List all unpaid tenants for March 2025”*
+  - "Did Nancy pay for March 2025?"
+  - ”Which property does Nancy Muller live?"
 - 🤖 Automatically routes queries to the appropriate agent (contract or payment)
 - 🧠 Keeps track of the last payment date per tenant
 - 🏢 Displays tenant lists grouped by property for easy review
@@ -39,7 +39,7 @@ Many property owners use Excel to manage tenant contracts and payments, making i
 
 ## 📽 Demo Video
 
-[![Watch the Demo]](https://youtu.be/mFaOKOvO1Qk)  
+[![Watch the Demo](https://img.youtube.com/vi/mFaOKOvO1Qk/0.jpg)](https://youtu.be/mFaOKOvO1Qk)
 
 ---
 
@@ -54,7 +54,7 @@ Many property owners use Excel to manage tenant contracts and payments, making i
 
 ## 🚀 Tech Stack
 
-| Component        | Description                        |
+| Component         | Description                        |
 |------------------|------------------------------------|
 | 🧠 GPT-4o         | Natural language understanding     |
 | ☁️ Azure Cosmos DB | Scalable document-based database |
@@ -80,7 +80,4 @@ Many property owners use Excel to manage tenant contracts and payments, making i
 ├── .gitignore
 └── requirements.txt
 
-
-📝 License
-
-MIT License
+---
