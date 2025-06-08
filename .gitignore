@@ -1,0 +1,31 @@
+# macOS固有のファイル
+.DS_Store
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+.venv/
+
+# 環境変数
+.env
+
+# pytestキャッシュ
+.pytest_cache/
+
+# ローカル開発用ストレージ（Azuriteなど）
+__azurite_db_*.json
+__blobstorage__/
+__queuestorage__/
+
+# エディタ/IDE固有のファイル
+.vscode/
+.idea/
+
+# Jupyterノートブックのチェックポイント
+.ipynb_checkpoints/
+
+# その他
+*.log
+*.sqlite3
