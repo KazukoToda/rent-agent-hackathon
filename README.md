@@ -1,74 +1,86 @@
-# RentMate
+# 🏠 Rent Payment AI Agent
 
-An AI-powered agentic application for rent and subscription payment tracking.
+This is a conversational AI-powered Streamlit app designed for property owners to manage rental contracts and payment tracking more efficiently.
 
-## Overview
+✅ Built with **Azure OpenAI (GPT-4o)**, **Cosmos DB**, and **multi-agent orchestration**.
 
-RentMate is a modern agentic app built with Azure OpenAI, Azure Cosmos DB, and Azure AI Agents. It automates rent management, payment tracking, and contract operations for property managers.
+---
 
-## Features
+## 📌 Problem
 
-- Natural language Q&A about tenants and payment history
-- Automated unpaid rent alerts (in English)
-- Contract management (renewal, cancellation, CRUD)
-- CSV data upload to Cosmos DB
-- Retrieval-Augmented Generation (RAG) with Cosmos DB vector search
+Many property owners use Excel to manage tenant contracts and payments, making it difficult to:
 
-## Architecture
+- Check who has paid for which month
+- Track late payments
+- Send reminders efficiently
 
-- **Frontend:** Streamlit (Python)
-- **Agents:** Query Agent, Alert Agent, Contract Agent, Upload Agent
-- **Database:** Azure Cosmos DB (NoSQL, vector search)
-- **AI:** Azure OpenAI (GPT-4o, GPT-3.5-turbo, etc.)
+---
 
-## Directory Structure
+## 🛠️ What This App Does
 
-```
-agents/
-  query_agent.py
-  alert_agent.py
-  contract_agent.py
-  upload_agent.py
-  cosmos_client.py
-services/
-  unpaid_service.py
-streamlit_app.py
-.env.example
-README.md
-```
+- 💬 Accepts natural language queries like:
+  - *“Has Nancy paid for February 2025?”*
+  - *“List all unpaid tenants for March 2025”*
+- 🤖 Automatically routes queries to the appropriate agent (contract or payment)
+- 🧠 Keeps track of the last payment date per tenant
+- 🏢 Displays tenant lists grouped by property for easy review
 
-## Setup
+---
 
-1. Clone this repository.
-2. Create a `.env` file (see `.env.example`).
-3. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-4. Run the app:
-   ```
-   streamlit run streamlit_app.py
-   ```
+**Main Components:**
 
-## Environment Variables
+- `Query Agent`: Understands user questions and delegates to appropriate agents
+- `Contract Agent`: Retrieves contract data from Cosmos DB
+- `Payment Agent`: Retrieves and analyzes payment history
+- `Streamlit`: Provides the web UI
+- `Cosmos DB`: Stores contract and payment data
 
-- `COSMOS_ENDPOINT`
-- `COSMOS_KEY`
-- `COSMOS_DB`
-- `COSMOS_CONTAINER_CONTRACTS`
-- `COSMOS_CONTAINER_PAYMENTS`
-- `AZURE_OPENAI_API_KEY`
-- `AZURE_OPENAI_ENDPOINT`
-- `AZURE_OPENAI_API_VERSION`
-- `AZURE_OPENAI_DEPLOYMENT_NAME`
+---
 
-## Usage
+## 📽 Demo Video
 
-- Ask questions about tenants and payments in natural language.
-- Click "Show unpaid alert" to generate polite reminder messages for unpaid tenants.
-- Manage contracts and upload data via the agentic interface.
+[![Watch the Demo]](https://youtu.be/mFaOKOvO1Qk)  
 
-## License
+---
 
-MIT
+## 💡 Future Enhancements
 
+- 📤 Send automated email reminders for unpaid tenants
+- 📆 Handle prepayments and deposits more flexibly
+- 📱 Mobile app support
+- 🔍 Vector-based tenant record search for more robust lookup
+
+---
+
+## 🚀 Tech Stack
+
+| Component        | Description                        |
+|------------------|------------------------------------|
+| 🧠 GPT-4o         | Natural language understanding     |
+| ☁️ Azure Cosmos DB | Scalable document-based database |
+| 🔧 Streamlit      | Fast interactive web interface     |
+| 🤖 Multi-agent    | Modular query handling by intent   |
+
+---
+
+## 📂 Repository Structure
+
+```bash
+.
+├── agents/
+│   ├── query_agent.py
+│   ├── contract_agent.py
+│   └── payment_agent.py
+├── data/
+├── services/
+├── streamlit_app.py
+├── initialize_project.py
+├── test/
+├── README.md
+├── .gitignore
+└── requirements.txt
+
+
+📝 License
+
+MIT License
